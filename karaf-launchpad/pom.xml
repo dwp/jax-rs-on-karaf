@@ -21,7 +21,7 @@
     </description>
 
     <properties>
-        <karaf.version>2.3.2</karaf.version>
+        <karaf.version>2.3.8</karaf.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
